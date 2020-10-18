@@ -1,7 +1,7 @@
 {
-    "name": "neemo-react",
+    "name": "max-margin",
     "version": "1.5.0",
-    "description": "Neemo - React Next SEO & IT Agency React Template",
+    "description": "Max Margin Management",
     "main": "index.js",
     "scripts": {
         "dev": "node server.js -p $PORT",

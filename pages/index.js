@@ -17,6 +17,7 @@ import PartnerLogos from '../components/HomeOne/PartnerLogos';
 import SubscribeStyleOne from '../components/Common/SubscribeStyleOne';
 import Footer from '../components/Layouts/Footer';
 import SubscribeStyleTwo from "../components/Common/SubscribeStyleTwo";
+import ContactContent from "../components/Contact/ContactContent";
 
 class Index extends Component {
     render() {
@@ -36,6 +37,7 @@ class Index extends Component {
                 {/*<AnalysisFormContent />*/}
                 {/*<BlogCardSection />*/}
                 {/*<SubscribeStyleTwo />*/}
+                <ContactContent />
                 <SubscribeStyleOne />
                 <Footer />
             </React.Fragment>

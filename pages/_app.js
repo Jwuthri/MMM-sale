@@ -33,13 +33,13 @@ export default class MyApp extends App {
         return (
             <React.Fragment>
                 <DefaultSeo
-                    title="Neemo - React Next SEO & IT Agency Template"
-                    description="Neemo - React Next SEO & IT Agency Template. This has been built with React, Next.js, Express.js, and ES6+"
+                    title="Max Margin Management"
+                    description="Next js"
                     openGraph={{
                         type: 'website',
                         locale: 'en_IE',
                         url: 'https://neemo-react.envytheme.com/',
-                        site_name: 'Neemo - React Next SEO & IT Agency Template',
+                        site_name: 'Max Margin Management',
                     }}
                 />
 

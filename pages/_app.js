@@ -38,7 +38,6 @@ export default class MyApp extends App {
                     openGraph={{
                         type: 'website',
                         locale: 'en_IE',
-                        // url: 'https://neemo-react.envytheme.com/',
                         site_name: 'Max Margin Management',
                     }}
                 />
